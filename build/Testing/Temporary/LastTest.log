@@ -1,0 +1,35 @@
+Start testing: Oct 16 08:43 MSK
+----------------------------------------------------------
+1/2 Testing: unit
+1/2 Test: unit
+Command: "/home/kristina/projects/arraylib/build/test_unit"
+Directory: /home/kristina/projects/arraylib/build
+"unit" start time: Oct 16 08:43 MSK
+Output:
+----------------------------------------------------------
+[unit] All tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit" end time: Oct 16 08:43 MSK
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: integration
+2/2 Test: integration
+Command: "/home/kristina/projects/arraylib/build/test_integration"
+Directory: /home/kristina/projects/arraylib/build
+"integration" start time: Oct 16 08:43 MSK
+Output:
+----------------------------------------------------------
+[integration] All tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"integration" end time: Oct 16 08:43 MSK
+"integration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 16 08:43 MSK
